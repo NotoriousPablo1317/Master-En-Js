@@ -1,5 +1,5 @@
 # Master-En-Js
-Esto es un curso que estoy realizando para aprender y fortalecer mi logica de programacion como nuevos dominios en tecnologias con JS y complementar mi conocimiento con VueJS.
+Esto es un curso que estoy realizando en mis tiempos libres para aprender y fortalecer más mi logica de programacion como nuevos dominios en tecnologias con JS y complementar mi conocimiento con VueJS.
 
 ## Ruta de aprendizaje
 Ruta de aprendizaje para aprender a programar desde cero desarrollo web con JavaScript, jQuery, JSON, TypeScript, Angular, Node, MEAN.
