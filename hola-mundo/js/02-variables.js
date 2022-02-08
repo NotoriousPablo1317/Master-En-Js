@@ -1,3 +1,4 @@
+'use strict'
 // Variables
 // Es un contenedor de informacion.
 
@@ -11,5 +12,6 @@ pais = "Turquia";
 continente = "Europa"
 
 console.log(pais, continente, antiguedad)
+
 // llamara las primeras variables que declaramos Chile y latam
 alert(pais_y_continente)
