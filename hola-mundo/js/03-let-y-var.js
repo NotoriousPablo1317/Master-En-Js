@@ -1,4 +1,4 @@
-'use stricted'
+'use strict'
 /*let permite definir variables limitando su alcance al bloque, declaracion o expresion donde se esta usando
 var define una variable global o local en una función sin importar el hambito del bloque
 
