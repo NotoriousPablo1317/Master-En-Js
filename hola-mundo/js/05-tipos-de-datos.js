@@ -1,6 +1,5 @@
 'use strict'
 // alert('comprobando la carga')
-
 // Operadores
 var numero1 = 7;
 var numero2 = 12;
@@ -21,7 +20,7 @@ console.log(Number(numero_falso)+7);
 //console.log(parseFloat(numero_falso)+7); //numero flotante
 //console.log(String(numero_entero)+4); //numero a texto
 
-// Visualizar tipo de dato de las variables
+// Visualizar tipo de dato exacto de las variables
 console.log(typeof numero_entero);
 console.log(typeof cadena_texto);
 console.log(typeof verdadero_o_falso);
