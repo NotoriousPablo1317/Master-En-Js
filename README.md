@@ -1,4 +1,4 @@
-# Master-En-Js
+# Repaso JS
 Esto es un curso que estoy realizando en mis tiempos libres para aprender y fortalecer más mi logica de programacion como nuevos dominios en tecnologias con JS y complementar mi conocimiento con VueJS.
 
 ## Ruta de aprendizaje
